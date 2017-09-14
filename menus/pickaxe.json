@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Pickaxe",
+          "submenu": [
+            {
+              "label": "Open Gemfile",
+              "command": "pickaxe:open-gemfile"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
