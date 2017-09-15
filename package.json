@@ -1,7 +1,7 @@
 {
   "name": "Pickaxe",
   "main": "./lib/pickaxe",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Tools for Rails development",
   "keywords": [],
   "activationCommands": {
