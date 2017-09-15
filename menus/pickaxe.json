@@ -9,6 +9,10 @@
             {
               "label": "Open Gemfile",
               "command": "pickaxe:open-gemfile"
+            },
+            {
+              "label": "Open Guardfile",
+              "command": "pickaxe:open-guardfile"
             }
           ]
         }
