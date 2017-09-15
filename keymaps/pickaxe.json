@@ -1,5 +1,3 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-g": "pickaxe:open-gemfile"
-  }
+  "atom-workspace": {}
 }
